@@ -24,3 +24,16 @@ C:\SourceTree\mary\Marry\Marry\obj\Debug\Marry.Properties.Resources.resources
 C:\SourceTree\mary\Marry\Marry\obj\Debug\Marry.csproj.GenerateResource.Cache
 C:\SourceTree\mary\Marry\Marry\obj\Debug\Marry.exe
 C:\SourceTree\mary\Marry\Marry\obj\Debug\Marry.pdb
+C:\SourceTree\mary\Marry\bin\Debug\Marry.exe.config
+C:\SourceTree\mary\Marry\bin\Debug\Marry.exe
+C:\SourceTree\mary\Marry\bin\Debug\Marry.pdb
+C:\SourceTree\mary\Marry\obj\Debug\Marry.csprojResolveAssemblyReference.cache
+C:\SourceTree\mary\Marry\obj\Debug\MainWindow.baml
+C:\SourceTree\mary\Marry\obj\Debug\MainWindow.g.cs
+C:\SourceTree\mary\Marry\obj\Debug\App.g.cs
+C:\SourceTree\mary\Marry\obj\Debug\Marry_MarkupCompile.cache
+C:\SourceTree\mary\Marry\obj\Debug\Marry.g.resources
+C:\SourceTree\mary\Marry\obj\Debug\Marry.Properties.Resources.resources
+C:\SourceTree\mary\Marry\obj\Debug\Marry.csproj.GenerateResource.Cache
+C:\SourceTree\mary\Marry\obj\Debug\Marry.exe
+C:\SourceTree\mary\Marry\obj\Debug\Marry.pdb
