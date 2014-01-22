@@ -2,12 +2,11 @@
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="Marry.MainWindow"
-        Title="MainWindow" Height="1080" Width="1422">
+        Title="MainWindow" Height="1074" Width="1422">
     <Grid >
         <Grid Name="target" Height="1080" Width="1422" >
-            <Viewbox Height="1080">
+            <Viewbox Height="1080" Margin="0,-22,0,0">
                 <Grid>
-                    <Image HorizontalAlignment="Left"  VerticalAlignment="Top" Source="Assets/2747002i.jpg" Margin="0,5,0,0" d:IsHidden="True" Visibility="Collapsed" />
                     <Path Data="M1783.4996,65.5 L1795.4996,227.5 C1872.2229,229.51108 1790.702,750.72436 1688.9996,752.5 1701.032,764.75923 1500.5743,1133.8345 1488.1667,1125.8333 1425.3313,1223.041 1363.8642,1305.9208 1303.5,1373.1667 1325.0952,1333.8257 1343.6212,1293.1633 1357.5,1250.5 L1262.8345,1430.1684 105.83448,1428.1684 C102.81981,1326.7681 76.486202,1202.9486 0,1036 L-3.4999993,373.5 -4.4999991,190.5" Fill="#FFCE813D" HorizontalAlignment="Left" Height="1365.668" Margin="-4.5,2.5,0,-21.168" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="1831.267"/>
                     <Path x:Name="kage5" Data="M-28,525 C55.649302,715.53491 143.456,900.21532 239,1074 222.13732,1020.8153 199.78655,907.23084 168.5,721.5 L191,720 C228.14599,987.34501 272.40755,1195.4888 326,1326 L380,1356 C318.05,1220.3281 288.50713,1100.2711 285.5,993 261.38666,918.01094 246.34607,842.01545 240.5,765 L347,810 405.5,1393.5 324.5,1368 C294.7076,1282.844 266.06482,1194.2604 240.5,1096.5 138.77223,916.61978 48.188693,731.16102 -34,541.5 L-25,688.5 C71.624525,909.44153 174.418,1113.4855 290,1282.5 L296,1311.6667 C172.06963,1138.3792 66.762777,941.68851 -23,747 L-25,831 C29.044623,863.98272 115.12638,1073.4939 215,1359 112.41928,1130.7921 21.29851,931.54094 -22,870" Fill="#BC7C3D1A" HorizontalAlignment="Left" Height="868.5" Margin="-34,525,0,-46.5" Stretch="Fill" VerticalAlignment="Top" Width="439.5"/>
                     <Path x:Name="kubi" Data="M314,827 C343.94023,1034.142 364.76509,1241.3078 375.5,1448.5 L1103.5,1452.5 C1105.5279,1352.2483 1133.9601,1271.5386 1157.5,1187.5" Fill="#FFFFECCC" HorizontalAlignment="Left" Height="626.5" Margin="314,764,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="844.5"/>
@@ -56,7 +55,7 @@
                 </Grid>
             </Viewbox>
          </Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top" Width="202" Height="97" Click="Button_Click"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" Width="202" Height="97" Click="Button_Click"/>
 
     </Grid>
 </Window>
